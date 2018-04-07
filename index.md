@@ -1,4 +1,4 @@
-## Welcome to hjertetid.dk 
+## Velkommen til hjertetid.dk 
 
 ### Hvem er hjertesygeplejerske Toni Hørup? 
 
