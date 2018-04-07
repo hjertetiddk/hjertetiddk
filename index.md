@@ -13,5 +13,9 @@ Jeg er uddannet hjertesygeplejerske og har gennem mere end 20 år arbejdet med h
 Udover sygeplejerskeuddannelsen har jeg taget en overbygning indenfor kognitiv 
 psykologi og kurser i ACT.  
 
+### Book en samtale:
+- Tlf.: 24 75 12 09
+- mail@hjertetid.dk
+
 For more details contact [hjertetid.dk](http://hjertetid.dk/).
 
