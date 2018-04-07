@@ -1,5 +1,7 @@
 ## Velkommen til hjertetid.dk 
 
+(img/image.jpg)
+
 ### Hvem er hjertesygeplejerske Toni Hørup? 
 
 Jeg har mange års erfaring i at give rådgivning indenfor sygdom, medicin (virkning og bivirkninger), normale efterreaktioner på sygdom, angst, mindre depressioner, ændringer af livsstil, samlivsproblemer, søvnproblemer, stress m.m.  
