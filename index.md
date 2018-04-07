@@ -1,6 +1,6 @@
 ## Velkommen til hjertetid.dk 
 
-(img/image.jpg)
+An image: ![gras](img/image.jpg)
 
 ### Hvem er hjertesygeplejerske Toni Hørup? 
 
