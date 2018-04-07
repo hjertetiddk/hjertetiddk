@@ -2,7 +2,8 @@
 
 ![gras](images/toni.jpg)
 
-### Hvem er hjertesygeplejerske Toni Hørup? 
+### Hvem er hjertesygeplejerske *Toni Hørup*{: style="color: red"}? 
+
 
 Jeg har mange års erfaring i at give rådgivning indenfor sygdom, medicin (virkning og bivirkninger), normale efterreaktioner på sygdom, angst, mindre depressioner, ændringer af livsstil, samlivsproblemer, søvnproblemer, stress m.m.  
 
